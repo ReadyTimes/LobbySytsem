@@ -1,3 +1,10 @@
 name: Tutorial-Plugin
 main: main.Main
 version: 1.0
+commands:
+   gm:
+      Usage: /gm [MODE]
+   fly:
+      Usage: /fly
+   cc:
+      Usage: /cc

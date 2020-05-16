@@ -28,6 +28,7 @@ public class Join implements Listener {
 		p.getInventory().clear();
 		
 		Manager.getItems(p);
+		Manager.updateScore(p);
 		
 		
 	}
