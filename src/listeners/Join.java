@@ -29,6 +29,7 @@ public class Join implements Listener {
 		
 		Manager.getItems(p);
 		Manager.updateScore(p);
+		Manager.updateTablist(p);
 		
 		
 	}

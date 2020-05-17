@@ -8,3 +8,6 @@ commands:
       Usage: /fly
    cc:
       Usage: /cc
+   set:
+      Usage: /set
+      
